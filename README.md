@@ -5,7 +5,7 @@ A comprehensive attendance management system with React frontend and Node.js bac
 ## Project Structure
 
 ```
-attendance-system/
+
 ├── client/                     # React Frontend
 │   ├── public/                # Static files
 │   ├── src/                   # Source files
@@ -41,7 +41,6 @@ attendance-system/
 1. Clone the repository
 2. Install dependencies for both client and server:
    ```
-   cd attendance-system
    cd client && npm install
    cd ../server && npm install
    ```
